@@ -1,0 +1,52 @@
+{
+	"auto_complete": false,
+	"detect_slow_plugins": false,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"maintenance.html",
+		"*.log",
+		"zeus.sock"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"log",
+		"tmp",
+		"cassettes/"
+	],
+	"font_size": 12.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"GitGutter",
+		"Vintage"
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false
+}
